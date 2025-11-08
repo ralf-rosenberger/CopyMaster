@@ -1,7 +1,6 @@
-# Test
+# CopyMaster
 
-Dies ist ein Beispielprojekt.  
-Hier kannst du beschreiben, worum es geht und wie man es benutzt.
+Ein schnelles Dateien-Kopierprogramm in C++ und den MFC
 
 ## Installation
 
@@ -12,11 +11,11 @@ cd Test
 
 ## Nutzung
 
-Beschreibe hier, wie das Projekt verwendet wird und gib ggf. Beispiele.
+
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz – siehe [LICENSE](LICENSE) für weitere Informationen.
+//Dieses Projekt steht unter der MIT-Lizenz – siehe [LICENSE](LICENSE) für weitere Informationen.
 
 ## Autor
 
