@@ -7,8 +7,8 @@ A fast File Copying Program in C++ using the MFC.
 ## Installation
 
 ```bash
-git clone https://github.com/ralf-rosenberger/Test.git
-cd Test
+git clone https://github.com/ralf-rosenberger/CopyMaster.git
+cd CopyMaster
 ```
 
 ## Nutzung
